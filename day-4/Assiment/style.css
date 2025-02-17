@@ -2,8 +2,7 @@
     font-family: Arial, sans-serif;
 }
 
-.g{
-    border: black solid 2px;
+body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -16,7 +15,7 @@
 .h>h1{
     color: white;
 }
-.f{
+header{
     display: flex;
     justify-content: flex-start;
     background-color: blue;
@@ -36,7 +35,7 @@
     text-align: center;
     color: rgb(91, 184, 91);
 }
- .e{
+.e{
     display: flex;
     justify-content: space-around;
  }
@@ -73,7 +72,7 @@
     background-color: transparent;
 }
 
-.d{
+footer{
     text-align: center;
     background-color: blue;
 }
